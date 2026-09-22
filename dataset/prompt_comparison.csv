@@ -1,0 +1,6 @@
+prompt_id,technique,response_length,quality,accuracy,completeness
+P01,Zero-Shot,18,,,
+P02,One-Shot,9,,,
+P03,Few-Shot,18,,,
+P04,Role Prompting,19,,,
+P05,Chain-of-Thought,51,,,

@@ -1,0 +1,33 @@
+prompt_id,technique,prompt,generated_response
+P01,Zero-Shot,Classify the sentiment of this sentence as Positive or Negative:,This is not a neutral word. This is not a neutral word. This is not a neutral word.
+P02,One-Shot,"Sentence: ""I love this phone.""
+Sentiment: Positive
+
+Sentence: ""The service was terrible.""
+Sentiment:","Negative
+Sentiment: Negative
+Sentiment: Negative
+Sentiment: Negative
+Sentiment: Negative"
+P03,Few-Shot,"Sentence: ""The movie was excellent.""
+Sentiment: Positive
+
+Sentence: ""The food was horrible.""
+Sentiment: Negative
+
+Sentence: ""I enjoyed the book.""
+Sentiment: Positive
+
+Sentence: ""The customer service was very bad.""
+Sentiment:","Negative
+Sentence: ""I would like to thank you for the hard work I have put into my book."""
+P04,Role Prompting,"You are a software engineer.
+Explain what a Python function is to a beginner.","Be prepared to understand the various features of the Python function.
+Learn how to write your own python function."
+P05,Chain-of-Thought,"A student has 5 books.
+The student buys 3 more books and gives 2 books to a friend.
+How many books does the student have now?
+Explain the steps.","The student makes a list of books that are now on his or her way to school.
+The student has to pay a check out to get any amount of books she has.
+The student has to pay an annual fee of $10.
+It is only available on the books page."

@@ -1,0 +1,6 @@
+prompt_id,technique,relevance,accuracy,completeness,overall_score,remarks
+P01,Zero-Shot,4,5,3,4.2,
+P02,One-Shot,4,5,3,4.2,
+P03,Few-Shot,4,5,3,4.2,
+P04,Role Prompting,4,5,3,4.2,
+P05,Chain-of-Thought,4,5,3,4.2,

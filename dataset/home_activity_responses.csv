@@ -1,0 +1,84 @@
+prompt_id,technique,prompt,generated_response
+P06,Zero-Shot,Explain the difference between mean and median to a beginner with a simple example.,"We can find a common example on a web page that shows a simple example to the beginner. In this case, we can see a simple example that shows a simple example to the beginner.
+
+
+
+In the example above, we can see a simple example that shows a simple example to the"
+P07,Zero-Shot,What are some general ways to maintain a healthy daily routine?,"The following is a good starting point for you to start building your own routine.
+
+
+
+In the past few months, I have been training myself on the idea of a daily routine that is healthy for the whole body. I have tried to help reduce the risk of high blood pressure by increasing"
+P08,Zero-Shot,Explain the difference between saving and investing for a beginner.,
+P09,Zero-Shot,A customer received a damaged product. Write a polite response explaining the next steps.,"We all need to think about the next steps before we start the process of filling out our shipping information.
+
+The best way to avoid this is to use a quick and painless online application. If you have a large number of existing customers and you are looking for"
+P10,Zero-Shot,Explain what a Python function is to a beginner with a simple example.,"The basic first thing to do is to learn how to use Python to write functions in Python.
+The second thing to do is to learn how to use it to write the functions in Python.
+The third thing to do is to learn how to use Python to write functions in"
+P11,One-Shot,"Example: Mean is the average of numbers, while median is the middle value after arranging them.
+Now explain the difference between mean and median to a beginner with a simple example.",Let’s say we want to calculate the average of a given row by dividing the number of rows in a row by multiplying the number of rows in a row by multiplying the number of rows in a row by multiplying the number of rows in a row by multiplying the number of rows in a
+P12,One-Shot,"Example: A healthy routine can include regular sleep, balanced meals, exercise, and enough water.
+Now suggest a simple healthy daily routine for a student.","This is a small exercise program that can be consumed for an hour, or up to 1 hour.
+These are all available in the same form as a regular workout or workout. You can read the full list of these exercises online at the link below.
+For more information on healthy routine, you"
+P13,One-Shot,"Example: Saving means keeping money for future needs, while investing means putting money into something that may grow in value.
+Now explain the difference between saving and investing for a beginner.","It is important to understand that saving is not just a physical thing, but also a mental and physical thing.
+Now, when we look at saving in a professional setting, it is not just a physical thing. It is a mental thing. It is a mental thing. It is a mental thing"
+P14,One-Shot,"Example: We are sorry that you received a damaged product. Please share your order details and photos of the damage so we can help with the next steps.
+Now write a polite customer-support response to a customer who received a damaged product.",Thanks for your continued support!
+P15,One-Shot,"Example: A Python function is a reusable block of code that performs a specific task.
+Now explain what a Python function is to a beginner with a simple example.","The purpose of a Python function is to perform multiple tasks with a single, single, and multiple-task solution.
+Before you start a tutorial, you will want to define a few basic things you can use with a Python function:
+Let's take a look at the example:
+python"
+P16,Few-Shot,"Example 1: Numbers 2, 4, 6. Mean: 4. Median: 4.
+Example 2: Numbers 1, 3, 5. Mean: 3. Median: 3.
+Now explain the difference between mean and median to a beginner with a simple example.","Suppose you have a table, and you want to see how it compares to a typical, easy, and often pretty average table. Here are the results from the table for each.
+Table 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22"
+P17,Few-Shot,"Example 1: Healthy routine: sleep 8 hours, eat balanced meals, drink enough water, and exercise regularly.
+Example 2: Healthy routine: maintain regular sleep, eat nutritious food, stay active, and take breaks.
+Now suggest a simple healthy daily routine for a student.","This is a typical daily routine for a student:
+1: A quick morning lunch, watch video, talk to a friend, and enjoy a few more hours of the morning.
+2: A quick morning lunch, watch video, talk to a friend, and enjoy a few more hours of the"
+P18,Few-Shot,"Example 1: Saving keeps money safe for future needs. Investing puts money into assets that may grow in value.
+Example 2: Saving is useful for short-term goals. Investing is generally used for longer-term growth.
+Now explain the difference between saving and investing for a beginner.","The key is to realize that investing in a short-term topic is not a long-term solution. The focus on short-term goals is to understand the value of the subject matter and not only what you can accomplish with it.
+Figure 3: Saving is useful for short-term goals"
+P19,Few-Shot,"Example 1: Customer received a damaged phone. Response: Apologize, ask for order details and photos, and explain the replacement process.
+Example 2: Customer received a damaged book. Response: Apologize, ask for order details and photos, and explain the return or replacement process.
+Now write a polite response to a customer who received a damaged product.","Example 3: Customer received a damaged book. Response: Apologize, ask for order details and photos, and explain the replacement process.
+Example 4: Customer received a damaged book. Response: Apologize, ask for order details and photos, and explain the replacement process.
+Example"
+P20,Few-Shot,"Example 1: A Python function is reusable code that performs a specific task.
+Example 2: A function can accept inputs and return an output.
+Now explain what a Python function is to a beginner with a simple example.","This tutorial will show how to take advantage of the Ruby library library.
+Ruby has the ability to implement the Ruby library as a library and for the purpose to use it to solve problems like:
+import { 'input' : 'input' } from '../input' import 'input'"
+P21,Role Prompting,You are a Teacher. Explain the difference between mean and median to a beginner with a simple example.,"In a teacher's experience, it is difficult to distinguish between the mean and median. Many teachers teach a simple example. These examples are not the only examples, as the teacher can clearly distinguish between two different classes.
+But this is not the only example, as the teacher can clearly distinguish"
+P22,Role Prompting,You are a Doctor. Give general advice on maintaining a healthy daily routine for a student.,"You must be a Doctor. Give general advice on maintaining a healthy daily routine for a student.
+
+You must be a Doctor. Give general advice on maintaining a healthy daily routine for a student.
+You must be a Doctor. Give general advice on maintaining a healthy daily"
+P23,Role Prompting,You are a Finance Advisor. Explain the difference between saving and investing for a beginner.,
+P24,Role Prompting,You are a Customer Support Manager. Write a polite response to a customer who received a damaged product and explain the next steps.,"If these steps are not followed, you may be unable to contact customer support at your local local stores or the local retailers."
+P25,Role Prompting,You are an AI Engineer. Explain what a Python function is to a beginner with a simple example.,"You can easily figure out a way to build a simple Python function in Python.
+The Python function is much simpler than the Python function. You will need to create a standard Python function to do it.
+Python is a Python interpreter and you will need to start with a basic"
+P26,Chain-of-Thought,"A student has 12 notebooks. They buy 5 more notebooks and give 3 notebooks to a friend.
+How many notebooks do they have now?
+Explain the steps.","Take a few minutes to read the notes that you have.
+Take a couple minutes to read the notes that you have.
+Take a couple minutes to read the notes that you have.
+Take a couple minutes to read the notes that you have.
+Take a few minutes to read the"
+P27,Chain-of-Thought,"A shop has 50 pens. It sells 18 pens in the morning and 12 pens in the evening.
+How many pens are left?
+Explain the steps.","Find all of the pens in one place on the shop's website.
+Find all of the pens in one place on the shop's website.
+Find all of the pens in one place on the shop's website.
+Find all of the pens in one place on the shop's website."
+P28,Chain-of-Thought,"A student studies for 2 hours on Monday, 3 hours on Tuesday, and 4 hours on Wednesday.
+How many hours did the student study in total?
+Explain the steps.",How many hours did the student study in total?
